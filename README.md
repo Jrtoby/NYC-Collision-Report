@@ -34,7 +34,7 @@ For consistency, all replaced values match the consistency of missing values for
 ## Data Discovery
 **1. Compare total accident by month. Do you notice any seasonal patterns?**
 
-![](Trends.PNG)
+![](Trends.png)
 *Monthly report* :
 Comparing the total accident by month, March recorded the highest number of collisions at (25.1K), a gradual decline is observed from January through December, with December having the fewest incidents (16.9K).
 
@@ -43,7 +43,7 @@ The spring seasonal trend having the most reported collisions may correlate with
 
 **2. Break down accident by day of the week and hour of the day. base on this data, when do accident occur most frequently?**
 
-![](Time_frame.PNG)
+![](Time_frame.png)
 *Day and Time Breakdown* :
 Friday has the highest collision reports (2,111), while Sunday reports fewer incidents (1,725).
 Most collisions occur between 3:00 PM and 5:00 PM, correlating with peak traffic hours.
@@ -53,7 +53,7 @@ Afternoon (39.31%) sees the most collisions, followed by night (34.61%), Morning
 
 **3. On which particular street were the most accident reported?**
 
-![](Street_collision.PNG)
+![](Street_collision.png)
 *Streets with Most Collisions* :
 - Belt Parkway (3.7K reports) has the highest collision count, Other high-risk streets include:
 - Broadway (2.8K),
@@ -62,7 +62,7 @@ These streets likely experience heavy traffic or risky driving behaviors.
 
 **4. What was the most contributing factor the accidents reported?**
 
-![](Contributing_factor.PNG)
+![](Contributing_factor.png)
 *Contributing Factors* :
 - Unspecified reasons (60K),
 - Driver Inattention (58K) as leading causes.
@@ -74,7 +74,7 @@ High "unspecified" numbers indicate a need for better reporting systems, however
 
 ## Visualization
 
-![](Dashboard.PNG)
+![](Dashboard.png)
 This dashboard provides a comprehensive analysis of traffic collisions, their causes, affected areas and trends.
 
 *Key Features* :
