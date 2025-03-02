@@ -44,6 +44,7 @@ The spring seasonal trend having the most reported collisions may correlate with
 **2. Break down accident by day of the week and hour of the day. base on this data, when do accident occur most frequently?**
 
 ![](Time_frame.png)
+
 *Day and Time Breakdown* :
 Friday has the highest collision reports (2,111), while Sunday reports fewer incidents (1,725).
 Most collisions occur between 3:00 PM and 5:00 PM, correlating with peak traffic hours.
